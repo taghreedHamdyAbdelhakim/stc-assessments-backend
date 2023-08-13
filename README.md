@@ -9,3 +9,7 @@
 4- Create Folder Item API (run post api in postman ) : http://localhost:8080/item/saveItemChild?name=backend&parentItemName=stc-assessments&userEmail=admin@stc.com
 
 5- Create File Item API (run post api in postman ) : http://localhost:8080/item/saveItemChild?name=assessment.pdf&parentItemName=backend&userEmail=admin@stc.com
+
+6- to see file  metaDate : http://localhost:8080/files/assessment.pdf?userEmail=admin@stc.com
+    
+     
